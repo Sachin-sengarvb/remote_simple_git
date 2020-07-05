@@ -3,4 +3,4 @@
 - `README.md` is a documentation of my first Project
 - `add.py` is a code for adding two no.
 - `sub.py` is code for subtraction of two no.
-- `mul.py  added a mulplication file
+- `mul.py`  added a mulplication file
